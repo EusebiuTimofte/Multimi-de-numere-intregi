@@ -1,0 +1,21 @@
+# Multimi-de-numere-intregi
+
+Acest program realizeaza operatii intre multimi : citeste din fisier doua multimi , afiseaza multimile , intersectia , reuniunea
+ diferenta si produsul lor cartezian . Dupa citeste o multime de perechi de numere intregi , o afiseaza , o sorteaza si o afiseaza din nou.
+
+PROGRAMUL A FOST FACUT IN CONFORMITATE CU URMATOARELE CERINTE:
+
+Multimi finite de numere intregi reprezentate ca tablouri unidimensionale:
+  - Clasa multime sa contina metode de: transformare a unui vector in multime, prin
+eliminarea duplicatelor din respectivul vector; supraincarcare a operatorilor << si
+>>; reuniune a doua multimi, implementata prin supraincarcarea operatorului +;
+intersectie a doua multimi, implementata prin supraincarcarea operatorului *;
+diferenta dintre doua multimi, implementata prin supraincarcarea operatorului -;
+  - Sa se creeze o clasa pereche de numere intregi si o clasa multime de perechi de
+numere intregi reprezentata ca vector de obiecte de tip clasa pereche; clasa
+multime de perechi sa fie prietena a clasei pereche de intregi; fiecare dintre clasele
+pereche si multime de perechi sa contina supraincarcari pentru << si >>;
+ - Sa se scrie o functie care efectueaza produsul cartezian a doua multimi de intregi,
+date ca instante ale clasei multime de intregi, si il memoreaza intr-o instanta a
+clasei multime de perechi de intregi;
+  - Clasele de multimi trebuie implementate folosind alocare dinamica.
